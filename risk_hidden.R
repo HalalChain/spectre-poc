@@ -1,5 +1,5 @@
 ###### parameters begin ########
-N = 400  # just pick a value much greater than 1
+N = 300  # just pick a value much greater than 1
 alpha = 0.1  # the attacker’s relative computational power
 lambda = 10  # blocks per second
 d = 5  # the upper bound on the recent delay diameter in the network
